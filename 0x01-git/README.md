@@ -1,3 +1,2 @@
-readme for 0x01-git
-readme update from github.com
-readme update from github.com
+readme fot 0x01-git
+README update from github.com
